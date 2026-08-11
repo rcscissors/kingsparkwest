@@ -1,2 +1,2 @@
 # kingsparkwest
-Kings Park West, Fairfax, VA Websites
+Website and File repo for KPWCA Civic Association
